@@ -26,4 +26,4 @@
 - [CRU TS. v4.03](https://climexp.knmi.nl/selectfield_obs2.cgi?id=someone@somewhere)
 
 #### SPEI (drought index) based on CRU TS. v3.24.01
--[SPEI , current year seasonal (3, 6 month)](http://digital.csic.es/handle/10261/153475)
+- [SPEI , current year seasonal (3, 6 month)](http://digital.csic.es/handle/10261/153475)
