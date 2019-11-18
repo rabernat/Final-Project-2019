@@ -6,14 +6,18 @@
 
 ### Above is my  current standardized dataset for Ring width of white spruce tree-rings from Interior Alaska. Typically trees in the boreal forest are accurate recorders of mean summer temperature. Originally  cored in 1979 and updated in 2010, it was never published in a paper due to it's divergence from positive correlations to  mean temperature in the early 1980s. 
 
-### I remeasured this site for ringwidth and density recently and found that the density of these same tree rings are still temperature sensitive.  I would like to understand why trees are growing less during this period by running multiple spectral, climate, and PC analysis (if there's time) for the Ring Width dataset.
 
-## Question: Are trees in the SE brooks range suffering from temperature-induced drought Stress?
+# Question 
 
+### Are trees in the SE brooks range suffering from temperature-induced drought Stress?
+
+# Summary 
+
+### I remeasured this site for ringwidth and density recently and found that the density of these same tree rings are still temperature sensitive.  I would like to understand why trees are growing less during this period by running multiple spectral, climate, and PC analysis (if there's time) for the Ring Width dataset. The plan is to first clean and standardize climate datasets and plot the Spatial correlations for the Calibration period (1901-2008). 
 
 ### Datasets for Seasonal climate analysis 
 
-##### - Clean and standardized climate datasets , plot Spatial correlations
+##### 
 
 #### Gridded Temperature (mean,  max, min,),  Precip, 
 - [CRU TS. v3.24.01 ](https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.24.01/cruts.1701201703.v3.24.01/)
