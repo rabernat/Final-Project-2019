@@ -2,7 +2,7 @@
 
 ## Background
 
-![RW data](RW.png)
+![Screen Shot 2019-11-18 at 2 43 52 PM](https://user-images.githubusercontent.com/46793400/69091629-b1668400-0a18-11ea-9920-9ca70946fe61.png)
 
 ### Above is my  current standardized dataset for Ring width of white spruce tree-rings from Interior Alaska. Typically trees in the boreal forest are accurate recorders of mean summer temperature. Originally  cored in 1979 and updated in 2010, it was never published in a paper due to it's divergence from positive correlations to  mean temperature in the early 1980s. 
 
