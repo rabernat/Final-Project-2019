@@ -1,5 +1,6 @@
 # Rose Oelkers Final Project Proposal
 
+[![Binder](https://mybinder.org/badge.svg)]
 https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Froho91%2FFinal-Project-2019/872ce7a5caa47fe191f16571520aed69466c1fe7
 
 ## Background
