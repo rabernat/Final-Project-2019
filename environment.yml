@@ -7,5 +7,4 @@ dependencies:
  - numpy 
  - seaborn 
  - matplotlib
- - datetime
  - xarray
